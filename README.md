@@ -26,7 +26,7 @@ A modern, responsive 3-step registration form with client-side validation, progr
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/04-multi-step-form-react.git
+git clone https://github.com/x-anish-y/04-multi-step-form-react.git
 cd 04-multi-step-form-react
 
 # Install dependencies
